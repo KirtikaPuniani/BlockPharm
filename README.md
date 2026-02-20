@@ -3,12 +3,6 @@ Blockchain Project
 
 <h1>Project Title</h1>
 
-
-
-
-
-
-
 Using blockchain technology to develop a safe and transparent supply chain management solution for the pharmaceutical business. The method attempts to supply pharmaceutical items with complete traceability from manufacturing through consumption.
 
 <h1>Abstract</h1>

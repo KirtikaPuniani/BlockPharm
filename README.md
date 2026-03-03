@@ -5,14 +5,6 @@ Blockchain Project
 
 Using blockchain technology to develop a safe and transparent supply chain management solution for the pharmaceutical business. The method attempts to supply pharmaceutical items with complete traceability from manufacturing through consumption.
 
-
-
-
-
-
-
-
-
 <h1>Abstract</h1>
 
 The pharmaceutical industry is a complex ecosystem that involves numerous stakeholders, including drug manufacturers, regulators, healthcare providers, and patients. The use of blockchain technology has the potential to revolutionize the way these stakeholders interact, by enabling secure and transparent sharing of data and information. In this blockchain project, we propose the development of a decentralized platform that leverages the benefits of blockchain to improve pharmacovigilance, drug supply chain management, and clinical trials. The platform will enable the tracking of pharmaceutical products from the manufacturer to the end-user, reducing the risk of counterfeit drugs and improving patient safety. It will also facilitate the sharing of anonymized patient data for research purposes, while ensuring patient privacy and data security. This project aims to demonstrate the potential of blockchain technology in pharmacology and contribute to the development of innovative solutions for the pharmaceutical industry. Blockchain is a decentralized digital ledger technology that enables secure and transparent transactions without the need for intermediaries. It is a distributed ledger that allows multiple parties to maintain a shared database of transactions, which cannot be altered or deleted once recorded. The system uses complex cryptographic algorithms to ensure the integrity and immutability of data. The blockchain technology has revolutionized the way industries conduct transactions, especially in finance, healthcare, supply chain management, and voting systems. This abstract provides a brief overview of blockchain technology, its key features, and its potential applications in various industries.
